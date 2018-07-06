@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D2CEC36C-6A9A-49BB-8F58-89DEBB87E7FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>EncuestaSena.My.MyApplication</StartupObject>
+    <RootNamespace>EncuestaSena</RootNamespace>
+    <AssemblyName>EncuestaSena</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>EncuestaSena.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>EncuestaSena.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseDatos.vb" />
+    <Compile Include="Combox.vb" />
+    <Compile Include="frmAgregarUsuario.Designer.vb">
+      <DependentUpon>frmAgregarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAyuda.Designer.vb">
+      <DependentUpon>frmAyuda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAyuda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfirmacionClave.Designer.vb">
+      <DependentUpon>FrmConfirmacionClave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfirmacionClave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCrearEncuesta1.Designer.vb">
+      <DependentUpon>FrmCrearEncuesta1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCrearEncuesta1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEncuestaporrealizar.Designer.vb">
+      <DependentUpon>frmEncuestaporrealizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEncuestaporrealizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginAdmin.Designer.vb">
+      <DependentUpon>frmLoginAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginUsuario.Designer.vb">
+      <DependentUpon>frmLoginUsuario.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOpciAdministrador.Designer.vb">
+      <DependentUpon>frmOpciAdministrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOpciAdministrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPreguntasEncuesta.Designer.vb">
+      <DependentUpon>FrmPreguntasEncuesta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPreguntasEncuesta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MPrincipal.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RegistroUsuario.Designer.vb">
+      <DependentUpon>RegistroUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Varias.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAgregarUsuario.resx">
+      <DependentUpon>frmAgregarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAyuda.resx">
+      <DependentUpon>frmAyuda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfirmacionClave.resx">
+      <DependentUpon>FrmConfirmacionClave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCrearEncuesta1.resx">
+      <DependentUpon>FrmCrearEncuesta1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEncuestaporrealizar.resx">
+      <DependentUpon>frmEncuestaporrealizar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginAdmin.resx">
+      <DependentUpon>frmLoginAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginUsuario.resx">
+      <DependentUpon>frmLoginUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOpciAdministrador.resx">
+      <DependentUpon>frmOpciAdministrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPreguntasEncuesta.resx">
+      <DependentUpon>FrmPreguntasEncuesta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroUsuario.resx">
+      <DependentUpon>RegistroUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

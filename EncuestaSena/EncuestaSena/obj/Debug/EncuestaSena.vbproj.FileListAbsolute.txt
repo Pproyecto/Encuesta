@@ -1,0 +1,114 @@
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe.config
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.pdb
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.xml
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.Resources.resources
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbproj.GenerateResource.Cache
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.exe
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.xml
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.pdb
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginAdmin.resources
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginUsuario.resources
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe.config
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.exe
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.xml
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.pdb
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.pdb
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.xml
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginAdmin.resources
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginUsuario.resources
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.Resources.resources
+C:\Users\APRENDIZ SENA 4\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe.config
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.pdb
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.xml
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginAdmin.resources
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginUsuario.resources
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.Resources.resources
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbproj.GenerateResource.cache
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.exe
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.xml
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.pdb
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmEncuesta1.resources
+C:\Users\APRENDIZ SENA 2\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmEncuestaporrealizar.resources
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe.config
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.exe
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.xml
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.pdb
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.pdb
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.xml
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbprojResolveAssemblyReference.cache
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmEncuesta1.resources
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmEncuestaporrealizar.resources
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginAdmin.resources
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginUsuario.resources
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.Resources.resources
+C:\Users\Stiven King\Desktop\programacion\EncuestasSena1.0\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbproj.GenerateResource.Cache
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe.config
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.exe
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.xml
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.pdb
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbprojResolveAssemblyReference.cache
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmAgregarUsuario.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmEncuesta1.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmEncuestaporrealizar.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginAdmin.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginUsuario.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmOpciAdministrador.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmPreguntasEncuesta.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.Resources.resources
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbproj.GenerateResource.Cache
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.pdb
+C:\Users\Raul Carbono\Desktop\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.xml
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbprojResolveAssemblyReference.cache
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmAgregarUsuario.resources
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmEncuesta1.resources
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmEncuestaporrealizar.resources
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmOpciAdministrador.resources
+C:\Users\Stiven King\Desktop\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmPreguntasEncuesta.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe.config
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.exe
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.xml
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.pdb
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.pdb
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.xml
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbprojResolveAssemblyReference.cache
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmAgregarUsuario.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmEncuestaporrealizar.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginAdmin.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginUsuario.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmOpciAdministrador.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmPreguntasEncuesta.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.Resources.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.RegistroUsuario.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbproj.GenerateResource.Cache
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmCrearEncuesta1.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmActualizarDatos.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmConfirmacionClave.resources
+C:\Users\Raul Carbono\Desktop\Proyecto 20 junio\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmAyuda.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe.config
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.exe
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.xml
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.pdb
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.exe
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.pdb
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\bin\Debug\EncuestaSena.xml
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbprojResolveAssemblyReference.cache
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmAgregarUsuario.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmAyuda.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmConfirmacionClave.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmCrearEncuesta1.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmEncuestaporrealizar.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginAdmin.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmLoginUsuario.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.frmOpciAdministrador.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.FrmPreguntasEncuesta.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.Resources.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.RegistroUsuario.resources
+C:\Users\Raul Carbono\Desktop\Proyecto grupo 4 Encuesta\EncuestaSena\EncuestaSena\obj\Debug\EncuestaSena.vbproj.GenerateResource.Cache

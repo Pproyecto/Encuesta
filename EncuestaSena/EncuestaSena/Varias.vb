@@ -1,0 +1,4 @@
+﻿
+Class Varias
+
+End Class
